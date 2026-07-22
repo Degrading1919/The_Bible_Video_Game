@@ -1,0 +1,7 @@
+interface:
+  display_name: "Bible Video Game Skill Builder"
+  short_description: "Design safe, evaluated project skills"
+  default_prompt: "Use $the-bible-video-game-skill-builder to decide whether a recurring project workflow should become a skill and, if justified, draft and validate it."
+
+policy:
+  allow_implicit_invocation: false
